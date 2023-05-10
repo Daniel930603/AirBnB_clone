@@ -1,2 +1,1 @@
-# AirBnB_clone
-Group Project - Daniel Degebas Duressa, eya ejiofor
+0x00. AirBnB clone - The console
